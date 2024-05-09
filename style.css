@@ -60,7 +60,8 @@ nav ul li a{
 
 /* ------intro------ */
 .intro {
-  background-color: #eee0c9;
+     background-color: rgb(244, 245, 247;
+     
   margin: 0em 6em;
 }
 #house {
@@ -110,7 +111,8 @@ h2 {
 
 /* -----footer form------ */
 form {
-  background-color: #eee0c9;
+  background-color:rgb(246, 251, 255);
+
 }
 #signup {
   font-size: 3em;
@@ -128,7 +130,8 @@ form input {
 /* -----footer---- */
 
 footer{
-  background-color: #96B6C5;
+  background-color: rgb(21, 28, 34);
+      color: white;
 }
 
 footer ul li{
