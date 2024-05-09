@@ -12,6 +12,9 @@ nav {
   top: 0px !important;
   z-index: 2;
 }
+nav ul li a{
+  color:rgb(255,255,255);
+}
 
 .navLeft {
   float: left;
